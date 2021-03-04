@@ -46,7 +46,7 @@ I'm a sophomore at SRMIST KTR, pursuing my Bachelor's in computer science and ve
 
 
 ### 📈 My Stats<br>
-![stats](https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&theme=radical)
+![stat](https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&theme=radical)
 
 ### ✉️ Connect With Me<br>
 <p align="center">
