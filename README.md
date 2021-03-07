@@ -16,7 +16,7 @@ I'm a sophomore at SRMIST KTR, pursuing my Bachelor's in computer science and ve
  </br>
 
  - 🔭 I’m currently working on ... *deep learning projects*
- - 🌱 I’m currently learning ... *DL model deployment frameworks*
+ - 🌱 I’m currently learning ... *Generative Modeling*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
  - 🙋 **Resume : [Here](https://drive.google.com/file/d/1M5GdaImy69kakDWa4QwCq21oIWqz2iph/view?usp=sharing)**
