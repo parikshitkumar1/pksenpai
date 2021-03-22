@@ -19,7 +19,7 @@ I'm a sophomore at SRMIST KTR, pursuing my Bachelor's in computer science and ve
  - 🌱 I’m currently learning ... *Generative Modeling*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
- - 🙋 **Resume : [Here](https://drive.google.com/file/d/1jVvtSuaiNAuowg6H_V8Yu3YZoVv516jR/view?usp=sharing)**
+ - 🙋 **Resume : [Here](https://drive.google.com/file/d/1jVvtSuaiNAuowg6H_V8Yu3YZoVv516jR/view?usp=sharing )**
 
 
 
