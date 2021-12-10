@@ -13,7 +13,7 @@ I'm a junior at SRMIST KTR, pursuing my Bachelor's in computer science and very 
 ---
 
 
- - 🔭 I’m currently working on ... *deep learning projects*
+ - 🔭 I’m currently working on ... *deep learning research*
  - 🌱 I’m currently learning ... *Generative Modeling*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
