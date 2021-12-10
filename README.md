@@ -33,7 +33,6 @@ I'm a junior at SRMIST KTR, pursuing my Bachelor's in computer science and very 
    <code><img height="40" src="https://seeklogo.net/wp-content/uploads/2020/03/Linux-logo.png"></code>
    <code><img height="40" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></code>
    <code><img height="40" src="https://qphs.fs.quoracdn.net/main-qimg-748316a749bdb46f5cdbe02e976e5500.webp"></code>
-   <code><img height="40" img width="40" src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/07/scikit-learn-logo.png"></code>
    <code><img height="40" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png"></code>
    
    
