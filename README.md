@@ -11,8 +11,7 @@ I'm a junior at SRMIST KTR, pursuing my Bachelor's in computer science and very 
 
 
 ---
- <img align="right" alt="GIF" src="https://media1.tenor.com/images/4102642399cb0425b6b9022645aab927/tenor.gif?itemid=18013694raw=true" width="240" height="200" />
- </br>
+
 
  - 🔭 I’m currently working on ... *deep learning projects*
  - 🌱 I’m currently learning ... *Generative Modeling*
