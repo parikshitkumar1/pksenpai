@@ -42,8 +42,7 @@ I'm a senior at SRMIST KTR, pursuing my Bachelor's in computer science and very 
 <br>
 
 
-### 📈 My Stats<br>
-![stat](https://github-readme-stats.vercel.app/api?username=pksenpai&show_icons=true&theme=radical)
+
 
 ### ✉️ Connect With Me<br>
 <p align="center">
