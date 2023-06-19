@@ -6,7 +6,7 @@
 
 
 #### About Me
-I'm a senior at SRMIST KTR, pursuing my Bachelor's in computer science and very enthusiastic about the field of Deep Learning, I also enjoy a bit of writing on the side.
+CS Undergrad from SRMIST, very enthusiastic about the field of Deep Learning, I also enjoy a bit of writing on the side.
 
 
 
