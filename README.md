@@ -13,7 +13,7 @@ CS Undergrad from SRMIST, very enthusiastic about the field of Deep Learning, I 
 ---
 
 
- - 🔭 I’m currently working on ... *deep learning research*
+ - 🔭 I’m currently working on ... *Deep learning research*
  - 🌱 I’m currently learning ... *Generative Modeling*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
