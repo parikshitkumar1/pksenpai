@@ -6,7 +6,7 @@
 
 
 #### About Me
-CS Undergrad from SRMIST, very enthusiastic about the field of Deep Learning, I also enjoy a bit of writing on the side.
+CS Grad @UCR, very enthusiastic about the field of Deep Learning, I also enjoy a bit of writing on the side.
 
 
 
