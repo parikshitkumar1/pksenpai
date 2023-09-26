@@ -17,7 +17,7 @@ CS Grad @UCR, very enthusiastic about the field of Deep Learning, I also enjoy a
  - 🌱 I’m currently learning ... *Generative Modeling*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
- - 🙋 **CV : [Here](https://drive.google.com/file/d/19sULhmQ6mZFPyHcAJY90ervTRxiVuaFs/view?usp=sharing)**
+ - 🙋 **CV : [Here](https://drive.google.com/file/d/1fCZ5DiVKC2HIZn4vODZ0IIinWer25oFO/view?usp=sharing)**
 
 
 
