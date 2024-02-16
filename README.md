@@ -13,8 +13,8 @@ CS Grad student @UCR, very enthusiastic about the field of Deep Learning, I also
 ---
 
 
- - 🔭 I’m currently working on ... *Deep learning research*
- - 🌱 I’m currently learning ... *Generative Modeling*
+ - 🔭 I’m currently working on ... *Testing Dall-E*
+ - 🌱 I’m currently learning ... *Nothing, I'm struggling with course work*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
  - 🙋 **CV : [Here](https://drive.google.com/file/d/1QOYS1WDKXYDga_KRCRMBsES29oHmUf_P/view?usp=sharing)**
