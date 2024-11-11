@@ -13,11 +13,11 @@ CS Grad student @UCR, very enthusiastic about the field of Deep Learning, I also
 ---
 
 
- - 🔭 I’m currently working on ... *Computer Vision Research*
+ - 🔭 I’m currently working on ... *Computer Vision Research, Generative Modeling*
  - 🌱 I’m currently learning ... *...*
  - 💬 Ask me about ... *anything, I'd love to help*
  - 👨‍💻 Languages ... *I primarily work with Python and C++*
- - 🙋 **CV : [Here](https://drive.google.com/file/d/1WD1FVNFmgng3Wr_DxxtiECRKdg9ouoTz/view?usp=sharing)**
+ - 🙋 **CV : [Here](https://drive.google.com/file/d/1oLxDckStRn66FCDplgGUrW12xYRiJpFO/view?usp=sharing)**
 
 
 
